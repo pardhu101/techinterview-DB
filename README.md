@@ -6,6 +6,9 @@ The purpose of this exercise is to assess the candidate’s ability to evaluate 
 # Instructions
   1.	Download and install Microsoft SQL Server 2014 Express Edition (available for download at https://www.microsoft.com/en-us/download/details.aspx?id=42299 at the time of this writing).
   2.	Use the 2014 Adventure Works database (available for download at https://msftdbprodsamples.codeplex.com/downloads/get/880661 at the time of this writing).
+  3.	Fork the following repository: https://github.com/ThatOperaNerd/techinterview-DB.
+  4.	Create a series of scripts for the following tasks.
+  5.	Create a pull request prior to the due date.
 
 # Tasks
   1.	 Write a stored procedure that returns the percentage of the time each sales person has met his or her quota. 
