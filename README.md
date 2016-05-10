@@ -6,7 +6,7 @@ The purpose of this exercise is to assess the candidate’s ability to evaluate 
 # Instructions
   1.	Download and install Microsoft SQL Server 2014 Express Edition (available for download at https://www.microsoft.com/en-us/download/details.aspx?id=42299 at the time of this writing).
   1.	Use the 2014 Adventure Works database (available for download at https://msftdbprodsamples.codeplex.com/downloads/get/880661 at the time of this writing).
-  1.	Fork the following repository: https://github.com/ThatOperaNerd/techinterview-DB.
+  1.	Fork the following repository: https://github.com/Praeses/techinterview-DB.
   1.	Create a series of scripts for the following tasks.
   1.	Create a pull request prior to the due date.
 
